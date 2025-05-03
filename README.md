@@ -2,6 +2,13 @@
 
 Data Analyst
 
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Dashboarding  
+- SQL Query Design & Optimization  
+- Statistical Modeling & A/B Testing  
+- Business Insights & Reporting  
+
+
 <!--
 **Ellie-noh/Ellie-noh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
