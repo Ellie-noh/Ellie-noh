@@ -3,7 +3,7 @@
 Data Analyst
 
 - Exploratory Data Analysis
-- SQL & Database Optimization  
+- SQL & Python
 - Machine Learning Modeling & Evaluation  
 - NLP & Transformer Models (BERT, LLM)  
 - Data Visualization & Business Insight Reporting  
