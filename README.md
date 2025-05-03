@@ -2,11 +2,11 @@
 
 Data Analyst
 
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- SQL Query Design & Optimization  
-- Statistical Modeling & A/B Testing  
-- Business Insights & Reporting  
+- Exploratory Data Analysis & Data Wrangling  
+- SQL & Database Optimization  
+- Machine Learning Modeling & Evaluation  
+- NLP & Transformer Models (BERT, LLM)  
+- Data Visualization & Business Insight Reporting  
 
 
 <!--
