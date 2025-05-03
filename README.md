@@ -2,7 +2,7 @@
 
 Data Analyst
 
-- Exploratory Data Analysis & Data Wrangling  
+- Exploratory Data Analysis
 - SQL & Database Optimization  
 - Machine Learning Modeling & Evaluation  
 - NLP & Transformer Models (BERT, LLM)  
