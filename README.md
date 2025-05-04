@@ -1,5 +1,5 @@
 ### Noh, Yu Yeon
-<div style="margin-bottom: 30px;"></div>
+
 
 Data Analyst
 
