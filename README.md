@@ -85,8 +85,8 @@ LG Aimers Hackathon (2024.01- 2024.02)<br>
 ▸ Eliminate class imbalances with SMOTE
 
 CJ CheilJedang Contest (2023)<br>
-▸ Suggestions for segment classification and marketing strategies based on customer purchase patterns
-▸ KMeans clustering + Association Analysis + Tableau Visualization
+▸ Suggestions for segment classification and marketing strategies based on customer purchase patterns<br>
+▸ KMeans clustering + Association Analysis + Tableau Visualization<br>
 
 SUDA Project - Development of AI sign language-Korean learning web service (2024.05 to 2024.07)<br>
 ▸ Implementation of a FastAPI + React-Based Wrong-Answer Note Full Stack<br>
