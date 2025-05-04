@@ -67,8 +67,9 @@ SUDA 프로젝트 – AI 수어-한글 학습 웹 서비스 개발 (2024.05 ~ 20
 
 
 #### Certificate
-
-
+- ADSP (2025.03)
+- GAIQ (2024.04)
+- Computer Specialist in Spreadsheet & Database Level-2 (2020.07)
 
 
 
