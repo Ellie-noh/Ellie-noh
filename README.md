@@ -37,7 +37,7 @@ Data Analyst
 
 
 Study
-
+<!--
 BDA 데이터 분석 학회 (2022.06 ~ 2024.03)<br>
 ▸ Pandas, NumPy, Scikit-learn 기반 데이터 전처리 및 시각화 실습<br>
 ▸ 결측치 처리, 이상치 탐지, 스케일링, 인코딩 등 주제별 분석 보고서 20편 이상 작성<br>
@@ -64,7 +64,7 @@ SUDA 프로젝트 – AI 수어-한글 학습 웹 서비스 개발 (2024.05 ~ 20
 ▸ FastAPI + React 기반 오답노트 풀스택 구현<br>
 ▸ PostgreSQL DB 설계 및 CRUD 기능 구현<br>
 ▸ 소프트웨어저작권협회장상 수상<br>
-
+-->
 
 BDA Data Analysis Society (2022.06 ~ 2024.03)<br>
 ▸ Pandas, NumPy, Scikit-learn-based data preprocessing and visualization practice<br>
