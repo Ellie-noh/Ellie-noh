@@ -103,18 +103,7 @@ SUDA Project - Development of AI sign language-Korean learning web service (2024
 
 
 #### Skills 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/LLaMA3-000000?style=flat-square&logo=llama&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/KoBERT-3B49DF?style=flat-square&logo=ai&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/RNN-9C27B0?style=flat-square&logo=pytorch&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/YOLO-37474F?style=flat-square&logo=yolo&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="18px">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="18px">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/LLaMA3-000000?style=flat-square&logo=llama&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/KoBERT-3B49DF?style=flat-square&logo=ai&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/RNN-9C27B0?style=flat-square&logo=pytorch&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/YOLO-37474F?style=flat-square&logo=yolo&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="18px">
 
 
 
