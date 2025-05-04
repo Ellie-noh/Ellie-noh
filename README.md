@@ -12,7 +12,8 @@ Data Analyst
 
 
 #### Career
-- KMAC DX Group AI/Big Data Project Assistant
+- KMAC
+  DX Group AI/Big Data Project Assistant
   - 데이터 분석(Python, 삼성브라이틱스 ai)
   - 기업별, 산업별 데이터 분석 보고서 작성
   - 제안서 작성
