@@ -43,7 +43,7 @@ BDA 데이터 분석 학회 (2022.06 ~ 2024.03)<br>
 ▸ 결측치 처리, 이상치 탐지, 스케일링, 인코딩 등 주제별 분석 보고서 20편 이상 작성<br>
 ▸ 내부/외부 데이터 분석 대회 참가<br>
 
-KT AIVLE School (2023.08 ~ 2024.01)([링크](https://github.com/natelynate/aivle_bigproject))<br>
+KT AIVLE School (2023.08 ~ 2024.01)([🔗 프로젝트 보기](https://github.com/natelynate/aivle_bigproject))<br>
 ▸ AI/ML/딥러닝 프로젝트 및 웹서비스 개발 프로젝트 수행<br>
 ▸ React 기반 프론트엔드 + Figma UI 기획<br>
 ▸ 시선추적·미세표정 분석 AI를 통한 A/B 테스트 웹 대시보드 개발<br>
