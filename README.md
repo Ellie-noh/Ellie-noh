@@ -1,5 +1,6 @@
 ### Noh, Yu Yeon
-<div style="margin-bottom: 15px;"></div>
+<div style="margin-bottom: 30px;"></div>
+
 Data Analyst
 
 - Exploratory Data Analysis
