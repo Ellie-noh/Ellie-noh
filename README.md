@@ -15,7 +15,7 @@ Data Analyst
 #### Career
 - KMAC  <br>
   DX Group AI/Big Data Project Assistant
-  - Conducted data analysis with Python, Samsung Brighton’s AI
+  - Conducted data analysis with Python, Samsung Brightics AI
   - Created proposals along with enterprise and industry specific data-analysis reports 
 
 
