@@ -31,7 +31,7 @@ Data Analyst
 
 
 
-#### Education<br>
+#### Education <br>
 Kookmin University (Graduated)<br>
 nano-electron physics
 
