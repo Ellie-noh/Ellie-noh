@@ -103,4 +103,22 @@ SUDA Project - Development of AI sign language-Korean learning web service (2024
 
 
 #### Skills 
+<img src="https://img.shields.io/badge/Figma-UI/UX%20Design-blueviolet?style=flat-square&logo=figma&logoColor=white" height="18px"> 
+<img src="https://img.shields.io/badge/LangChain-LLM%20Tool-orange?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/LLaMA3-OpenAI%20Model-blue?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/Flask-Web%20Framework-black?style=flat-square&logo=flask&logoColor=white" height="18px"> 
+<img src="https://img.shields.io/badge/OpenCV-Image%20Processing-brightgreen?style=flat-square&logo=opencv&logoColor=white" height="18px"> 
+<img src="https://img.shields.io/badge/KoBERT-NLP%20Model-red?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-ff6f00?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/RNN-Recurrent%20Neural%20Network-9c27b0?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-37474f?style=flat-square" height="18px"> 
+<img src="https://img.shields.io/badge/Git-Version%20Control-f05032?style=flat-square&logo=git&logoColor=white" height="18px"> 
+<img src="https://img.shields.io/badge/Canva-Design%20Tool-00c4cc?style=flat-square&logo=canva&logoColor=white" height="18px"> 
+<img src="https://img.shields.io/badge/Photoshop-Adobe%20Tool-31a8ff?style=flat-square&logo=adobephotoshop&logoColor=white" height="18px">
+
+
+
+
+
+
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="18px"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="18px"> <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/XGBoost-d94e3d?style=flat-square&logo=xgboost&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/LightGBM-027b8f?style=flat-square&logo=leaflet&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/CatBoost-ffcc00?style=flat-square&logo=cat&logoColor=black" height="18px"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="18px"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" height="18px">
