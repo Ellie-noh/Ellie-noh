@@ -66,6 +66,33 @@ SUDA 프로젝트 – AI 수어-한글 학습 웹 서비스 개발 (2024.05 ~ 20
 ▸ 소프트웨어저작권협회장상 수상<br>
 
 
+BDA Data Analysis Society (2022.06 ~ 2024.03)<br>
+▸ Pandas, NumPy, Scikit-learn-based data preprocessing and visualization practice<br>
+▸ Prepare 20 or more thematic analysis reports, including missing value processing, outlier detection, scaling, encoding, etc<br>
+▸ Participation in internal/external data analysis competitions<br>
+
+KT AIVLE School (2023.08 ~ 2024.01)<br>
+▸ Conduct AI/ML/Deep Learning Project and Web Service Development Project<br>
+▸ React-based Front End + Figma UI Planning<br>
+▸ Development of A/B Test Web Dashboard through Eye Tracking and Fine Expression Analysis AI<br>
+
+Shinhan Big Data Hackathon (2023.10)<br>
+▸ Analyzing customer data and developing customized benefit proposition strategies<br>
+▸ Creating an analysis report based on clustering + visualization + classification model<br>
+
+LG Aimers Hackathon (2024.01- 2024.02)<br>
+▸ Development of B2B customer churn prediction models (Random Forest, XGBoost, LightGBM, etc.)<br>
+▸ Eliminate class imbalances with SMOTE
+
+CJ CheilJedang Contest (2023)<br>
+▸ Suggestions for segment classification and marketing strategies based on customer purchase patterns
+▸ KMeans clustering + Association Analysis + Tableau Visualization
+
+SUDA Project - Development of AI sign language-Korean learning web service (2024.05 to 2024.07)<br>
+▸ Implementation of a FastAPI + React-Based Wrong-Answer Note Full Stack<br>
+▸ PostgreSQL DB Design and CRUD Capabilities Implemented<br>
+▸ Awarded by the President of the Software Copyright Association<br>
+
 #### Certificate
 - ADSP (2025.03)
 - GAIQ (2024.04)
