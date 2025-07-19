@@ -72,13 +72,13 @@ BDA Data Analysis Society (2022.06 ~ 2024.03)<br>
 ▸ Participation in internal/external data analysis competitions<br>
 
 KT AIVLE School (2023.08 ~ 2024.01)<br>
-▸ Conduct AI/ML/Deep Learning Project and Web Service Development Project<br>
+▸ Conducted AI/ML/Deep Learning Project and Web Service Development Project<br>
 ▸ React-based Front End + Figma UI Planning<br>
 ▸ Development of A/B Test Web Dashboard through Eye Tracking and Fine Expression Analysis AI<br>
 
 Shinhan Big Data Hackathon (2023.10)<br>
-▸ Analyzing customer data and developing customized benefit proposition strategies<br>
-▸ Creating an analysis report based on clustering + visualization + classification model<br>
+▸ Analyzed customer data and developing customized benefit proposition strategies<br>
+▸ Created an analysis report based on clustering + visualization + classification model<br>
 
 LG Aimers Hackathon (2024.01- 2024.02)<br>
 ▸ Development of B2B customer churn prediction models (Random Forest, XGBoost, LightGBM, etc.)<br>
