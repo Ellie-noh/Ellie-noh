@@ -25,8 +25,6 @@ Data Analyst
 <ul style="margin-top: -5px; margin-bottom: -5px;">
   <li>Numpy, Data Processing Experience with Matplotlib</li>
   <li>Data Processing Experience with Pandas</li>
-  <li>Data utilization and data preprocessing experience using R</li>
-  <li>T-test and ANOVA with R</li>
 </ul>
 
 
