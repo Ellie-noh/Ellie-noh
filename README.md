@@ -91,10 +91,6 @@ SUDA Project - Development of AI sign language-Korean learning web service (2024
 ▸ PostgreSQL DB Design and CRUD Capabilities Implemented<br>
 ▸ Awarded by the President of the Software Copyright Association<br>
 
-#### Certificate
-- GAIQ (2025.05)
-- ADSP (2025.03)
-- Computer Specialist in Spreadsheet & Database Level-2 (2020.07)
 
 
 #### Portfolio
