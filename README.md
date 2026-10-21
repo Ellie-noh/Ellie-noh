@@ -1,4 +1,4 @@
-### Noh, Yu Yeon
+### Yu Yeon
 <br>
 
 Data Analyst
